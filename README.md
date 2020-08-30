@@ -8,4 +8,4 @@ And Follow The Installation Process For Successful Completion.
 2. pip install -r requirements.txt
 3. Put your video file into the folder your you have cloned the Motion-Detection Repository
 4. Then RENAME the video with "VideoFile" And Exetension Must Be mp4 
-5. At last open terminal And Type python Motion-Detection.py
+5. At last open terminal And Type, python setup.py
